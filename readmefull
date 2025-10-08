@@ -1,0 +1,38 @@
+AIRKINGS-VACANCY-WEBSITE
+This is hosted in airkingsgroup.rf.gd,
+
+AIRKINGS-VACANCY-WEBSITE
+This is hosted in airkingsgroup.rf.gd,
+
+🌐 AirKings Group Website Website: https://airkingsgroup.rf.gd
+Designed & Developed by: Rasha Production © 2025 Rasha Production — All Rights Reserved
+
+🏗️ Overview
+The AirKings Group Website is a modern, full-stack web platform designed and developed by Rasha Production to showcase company details, current vacancies, and services in a sleek, user-friendly manner. This project combines cutting-edge frontend and backend technologies to deliver a responsive, secure, and high-performance experience for both users and administrators.
+✨ Features 
+⚡ Fully responsive UI with Tailwind CSS 
+💻 Modern React frontend for dynamic and interactive pages 
+🔒 Node.js backend for data handling and API management 
+🧩 Supabase integration for authentication and database management 
+👨‍💼 Admin login system for managing and posting vacancies 
+🪄 Fast, optimized performance and SEO-friendly structure 
+☁️ Hosted on InfinityFree (airkingsgroup.rf.gd)
+
+🧠 Tech Stack Category Technology Frontend React.js, Tailwind CSS Backend Node.js, Express.js Database & Auth Supabase Hosting InfinityFree Version Control Git & GitHub ⚙️ Installation & Setup
+Clone the repository git clone https://github.com//airkings-group.git cd airkings-group
+
+Install dependencies npm install
+Setup Supabase environment variables Create a .env file in the root directory and add: VITE_SUPABASE_URL=your-supabase-url VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
+
+Run the development : server npm run dev
+
+Build for production npm run build
+Deploy to InfinityFree Upload your built files (from /dist) to your InfinityFree hosting via FTP or File Manager.
+
+📜 License This project is not open source. All rights are reserved under copyright law. Please see LICENSE.md for complete details.
+
+🚫 Usage Restrictions You are not permitted to copy, modify, distribute, or republish any part of this code, design, or structure. Unauthorized use, duplication, or alteration of this project may result in legal action under applicable copyright laws.
+
+📩 Contact For official inquiries, licensing, or permissions: 📧 Rasha Production — Rashaahamed02@gmail.com
+
+🕒 Version & Release Version: 1.0.0 Released on: October 8, 2025 Maintainer: Rasha Production
